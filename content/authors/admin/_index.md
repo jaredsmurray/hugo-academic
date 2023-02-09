@@ -1,7 +1,7 @@
 ---
 title: Jared S. Murray
 role: Assistant Professor of Statistics
-avatar_filename: ""
+avatar_filename: 1600266895_d1339194ad23146926fe4b1cb53c1f95.jpeg
 bio: My research interests include Bayesian nonparametrics, causal inference,
   and applications in the social sciences.
 interests: []
